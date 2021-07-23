@@ -1,0 +1,46 @@
+{
+    "goodbye" : [
+        "I'm going now", "bye", "goodbye for now", "take care", "goodbye"
+    ],
+    "hello" : [
+        "hello", "hey", "hi", "hello ayane", "hey ayane", "hi %name", "hello %name", "greetings!", "hello"
+    ],
+    "rude" : [
+        "i hate you", "i don't like you", "shut up", "you are ugly", "you are stupid", "i hate you $name"
+    ],
+    "kind" : [
+        "you are beautiful", "i love you", "you're so kind"
+    ],
+    "info.age" : [
+        "how old are you", "what is your age"
+    ],
+    "info.height" : [
+        "how tall are you", "what is your height", ""
+    ],
+    "info.birthdate" : [
+        "when were you born", "what is your birthday", "what is your birthdate", "what year where you born", "what month were you born"
+    ],
+    "info.gender" : [
+        "what is your gender", "what sex are you", "what is your sex", "what gender are you", 
+        "are you a girl or boy", "are you a guy or girl", "are you a boy or girl", "are you a guy or gall", "what's in your pants"
+    ],
+    "info.parent" : [
+        "who made you", "who owns you", "who is your creator", "who created you", "who is your dad", "who is your mom", 
+        "who are your parents", "who is your parent"
+    ],
+    "info.address" : [
+        "where do you live", "where is your location", "where are you", "where is your home"
+    ],
+    "info.name" : [
+        "what are you", "what is your name", "who are you", "who is you"
+    ],
+    "info.colors" : [
+        "what is your favorite color", "what color is your favorite", "what is your prefered color"
+    ],
+    "info.hobbies" : [
+        "what are your hobbies", "what do you like to do", "what do you do in your free time"
+    ],
+    "info.species" : [
+        "what are you "
+    ]
+}
